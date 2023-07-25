@@ -1,7 +1,7 @@
 #include <iostream>
 void operatingSystem()
 {
-	// Now, you can use LZH operating system freely
+	// Now, you cannot use LZH operating system freely
 }
 int main()
 {
